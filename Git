@@ -1,0 +1,23 @@
+ls
+git  clone
+cd 'file name'
+cd .. 
+mkdir
+git status
+
+
+Add command
+git add . 
+git add <-file name->
+
+Commit command 
+git commit -m "some message"
+
+To push code in GitHub write the below command in terminal. 
+git push origin main
+
+Init command
+git remote add origin 🔗
+git remote -v
+git branch
+git push origin main
