@@ -3,7 +3,7 @@ and I study at MSIT, Delhi
 In Electronics and Communication Engineering branch.
 Currently, I am a pre-final year student of Bachelor of Technology.
 
-Git Commands steps.
+Git Commands steps. from remote location to github.
 1. Git init
 ---on Github website, click on + on the top right side of the window, click on new repository
 2. git remote add origin URL
